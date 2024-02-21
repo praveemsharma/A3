@@ -1,0 +1,142 @@
+body{
+ background-image: linear-gradient(red, yellow, green, blue, pink, brown);
+}
+.box1{
+    height: 100px;
+    width: 300px;
+    border: 7px solid red;
+    box-shadow: 4px 5px  black;
+    margin-left: 590px;
+    text-align: center;
+    border-radius: 15px;
+    background-color: white;
+    color: red; 
+    font-size: x-large;
+    font-weight: 700;
+    text-shadow: 2px 1px 2px;
+}
+.main{
+    height: 600px;
+    width: 1500px;
+    border: 7px solid green;
+    display: flex;
+}
+.main1{
+    
+}
+.box2{
+    font-style: italic;
+    height: 200px;
+    width: 200px;
+    border: 10px solid red;
+    box-shadow: 5px 5px 5px 5px black;
+    font-size: x-large;
+    font-weight: 600;
+    text-shadow: 1px 1px 3px;
+    background-color: white;
+    text-align: center;
+
+}
+.box3{
+    height: 200px;
+    width: 200px;
+    border: 10px solid red;
+    box-shadow: 5px 5px 5px 5px black;
+    margin-top: 150px;
+    font-size: x-large;
+    font-weight: 600;
+    text-shadow: 1px 1px 3px;
+    background-color: white;
+    text-align: center;
+
+}
+.main2{
+ margin-left: 1045px;
+     
+}
+.box4{
+    height: 200px;
+    width: 200px;
+    border: 10px solid red;
+    box-shadow: 5px 5px 5px 5px black;
+    
+    
+}
+.box5{
+    height: 200px;
+    width: 200px;
+    border: 10px solid red;
+    box-shadow: 5px 5px 5px 5px black;
+    margin-top: 150px;
+    font-size: x-large;
+    font-weight: 600;
+    text-shadow: 1px 1px 3px;
+    background-color: white;
+    text-align: center;
+
+}
+.main3{
+    margin-top: 60px;
+    height: 700px;
+    width: 800px;
+    background-color: green;
+    margin-left: 400px;
+    border: 5px solid brown;
+    display: flex;
+    text-align: center;
+}
+.box6{
+    height: 300px;
+    width: 391px;
+    background-color: yellow;
+    text-align: center;
+    font-style: italic;
+    position: absolute;
+
+
+}
+.box7{
+    height: 300px;
+    width: 398px;
+    background-color: yellow;
+    text-align: center;
+    font-style: italic;
+    position: absolute;
+    margin-left: 400px;
+}
+.box8{
+    height: 280px;
+    width: 800px;
+    background-color: yellow;
+    text-align: center;
+  font-style: italic;
+  position: absolute;
+  margin-top: 308px;
+
+}
+.box9{
+    position: sticky;
+    height: 100px;
+    width: 400px;
+    border: 6px solid red;
+    box-shadow: 5px 5px 5px 5px brown;
+    border-radius: 20px;
+    margin-left: 600px;
+    background-color: rgb(150, 233, 150);
+    font-size: x-large;
+    font-weight: 900;
+    color: brown;
+    text-align: center;
+    top: 40%;
+    left: auto;
+    margin: auto;
+}
+
+.in{
+    height: 670px;
+    width: 800px;
+    background-color: green;
+    border: 6px solid brown;
+    margin-left: 400px;
+    position: absolute;
+}
